@@ -1,4 +1,3 @@
-## This program is for addition of two input numbers.
 num1 = 1.5
 num2 = 6.3
 # Add two numbers
