@@ -1,5 +1,7 @@
 # subtraction of two number
 
+print("Please enter two number")
+
 num1 = int(input("Enter number"))
 num2 = int(input("Enter number"))
 
