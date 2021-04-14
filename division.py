@@ -12,5 +12,4 @@ if __name__ == "__main__":
 
     num1 = int(input("Enter number"))
     num2 = int(input("Enter number"))
-    print("Division of two number is:")
-    print(division(num1, num2))
+    print("Division of two number is: {}".format(division(num1, num2)))
